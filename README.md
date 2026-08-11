@@ -1,7 +1,7 @@
-# Hi, I'm Priyanshi 👋
+# ⚡ Welcome to my workspace;
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=600&size=24&pause=1000&color=00F0FF&center=true&vCenter=true&width=600&lines=Computer+Science+Undergraduate;Cybersecurity+Enthusiast+%E2%80%A2+Developer;AI%2FML+Explorer+%E2%80%A2+Problem+Solver" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=600&size=24&pause=1000&color=8B5CF6&center=true&vCenter=true&width=600&lines=Software+Engineer+%E2%80%A2+Cyber+Enthusiast;Securing+systems%2C+one+line+at+a+time;Exploring+AI%2FML+%E2%80%A2+Solving+DSA" alt="Typing SVG" />
 </p>
 
 ---
