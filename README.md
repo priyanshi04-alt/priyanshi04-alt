@@ -1,4 +1,4 @@
-# ⚡ Welcome to my workspace;
+<h1 align="center">⚡ Welcome to my Workspace 💻</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=600&size=24&pause=1000&color=8B5CF6&center=true&vCenter=true&width=600&lines=Computer+Science+Undergraduate;Specializing+in+Cybersecurity+%26+Software+Development;Open+to+Projects+%26+New+Opportunities" alt="Typing SVG" />
