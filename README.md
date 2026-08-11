@@ -34,8 +34,8 @@ Currently, I balance academic excellence with hands-on labs and building project
 | Domain | Tech Stack |
 | :--- | :--- |
 | **Languages** | ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) |
-| **Backend & Web** | ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white) |
-| **Cyber & Systems** | ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black) ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat&logo=wireshark&logoColor=white) ![TryHackMe](https://img.shields.io/badge/TryHackMe-990000?style=flat&logo=tryhackme&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-000000?style=flat&logo=json-web-tokens&logoColor=00F0FF) |
+| **Backend & Web** | ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white) |
+| **Cyber & Systems** | ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black) ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat&logo=wireshark&logoColor=white) ![TryHackMe](https://img.shields.io/badge/TryHackMe-990000?style=flat&logo=tryhackme&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-000000?style=flat&logo=json-web-tokens&logoColor=00F0FF) ![VeraCrypt](https://img.shields.io/badge/VeraCrypt-006F00?style=flat&logoColor=white) |
 | **AI/ML & Data** | ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white) ![Scikit-Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white) |
 
 <p align="center">
@@ -54,15 +54,15 @@ Currently, I balance academic excellence with hands-on labs and building project
 
 <p align="left">
   <a href="mailto:ishnayirp10@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-ishnayirp10@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://linkedin.com/in/priyanshi-soni-993ab42b3/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Priyanshi%20Soni-0077B5?style=flat-square&logo=linkedin&logoColor=white" />
+  <a href="https://www.linkedin.com/in/priyanshi-soni-993ab42b3/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://leetcode.com/u/priyanshi04-alt/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=flat-square&logo=leetcode&logoColor=white" />
+  <a href="https://leetcode.com/u/ishnayirp22/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white" />
   </a>
-  <a href="https://www.tryhackme.com/" target="_blank">
-    <img src="https://img.shields.io/badge/TryHackMe-Profile-990000?style=flat-square&logo=tryhackme&logoColor=white" />
+  <a href="https://tryhackme.com/p/ishnayirp" target="_blank">
+    <img src="https://img.shields.io/badge/TryHackMe-990000?style=flat-square&logo=tryhackme&logoColor=white" />
   </a>
 </p>
