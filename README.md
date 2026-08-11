@@ -1,21 +1,118 @@
-## 👋 About Me
+# Hi 👋, I'm Priyanshi
 
-Hi, I'm Priyanshi — a Computer Science Engineering student with a strong interest in software development, cybersecurity, and building technology that solves real-world problems.
+<h3 align="center">
+Cybersecurity Enthusiast | Full Stack Developer
+</h3>
 
-I enjoy exploring how systems work, how they can be secured, and the technologies behind them. Currently, I'm strengthening my cybersecurity skills through hands-on practice with **TryHackMe**, **Kali Linux**, and **WebGoat**, while learning more about **cryptography**, **network security**, **Linux**, and tools like **Wireshark** and **VeraCrypt**.
-
-Alongside cybersecurity, I'm expanding my full-stack development journey by learning backend development with **Node.js** and **Express.js**, building on my experience with **React** and modern web technologies. I also enjoy solving **Data Structures & Algorithms** problems and working on AI/ML projects that challenge me to think critically and creatively.
-
-I'm always eager to explore new technologies, contribute to meaningful projects, and keep learning through hands-on experimentation. For me, every project is an opportunity to improve, every challenge is a chance to learn, and every day is another step toward becoming a better engineer.
-
-🌱 **Currently learning:** Backend Development • Cybersecurity • Ethical Hacking • Secure Software Development
-<!--
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=priyanshi04-alt&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=priyanshi04-alt&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=priyanshi04-alt&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<p align="center">
+Building secure applications and exploring cybersecurity, web security, and software development.
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=priyanshi04-alt&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 👩‍💻 About Me
+
+🎓 Computer Science Engineering Student
+
+🔐 Interested in:
+- Cybersecurity
+- Ethical Hacking
+- Web Application Security
+- Secure Software Development
+
+💻 Currently learning:
+- Penetration Testing
+- Network Security
+- Backend Development
+- System Design
+
+---
+
+## 🛡️ Cybersecurity Skills
+
+- Linux Fundamentals
+- Networking
+- OWASP Top 10
+- Web Security
+- API Security
+- Vulnerability Assessment
+
+### Tools
+
+![Kali Linux](https://img.shields.io/badge/Kali%20Linux-blue?style=for-the-badge&logo=kalilinux)
+![Wireshark](https://img.shields.io/badge/Wireshark-blue?style=for-the-badge&logo=wireshark)
+![Burp Suite](https://img.shields.io/badge/Burp%20Suite-orange?style=for-the-badge)
+![Nmap](https://img.shields.io/badge/Nmap-blue?style=for-the-badge)
+
+---
+
+## 🚀 Featured Projects
+
+### 🛡️ MemoryGuard
+
+Security platform focused on protecting AI applications and improving system reliability.
+
+**Tech Stack**
+```
+Java | Spring Boot | REST APIs | Security
+```
+
+---
+
+### 🚑 Smart Ambulance Traffic Management System
+
+IoT-based smart traffic management system for emergency vehicle priority routing.
+
+**Tech Stack**
+```
+React.js | ESP32 | IoT | Edge Computing
+```
+
+---
+
+### 🏋️ FitHub
+
+Full-stack wellness platform with interactive features and personalized solutions.
+
+**Tech Stack**
+```
+React.js | Node.js | JavaScript | Database
+```
+
+---
+
+## 🧰 Tech Stack
+
+### Languages
+```
+Java | Python | C++ | JavaScript
+```
+
+### Development
+```
+React.js | Node.js | Express.js | SQL | MongoDB
+```
+
+### Security
+```
+Linux | Kali Linux | Burp Suite | Wireshark | Nmap
+```
+
+---
+
+## 📚 Currently Learning
+
+🔐 Advanced Web Security  
+🌐 Penetration Testing  
+☁️ Cloud Security  
+💻 Backend Architecture  
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=priyanshi04-alt&show_icons=true&theme=tokyonight)
+
+---
+
+⭐ Always learning, building and securing.
