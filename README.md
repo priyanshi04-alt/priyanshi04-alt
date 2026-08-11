@@ -1,100 +1,205 @@
-<h1 align="center">
-Hi 👋, I'm Priyanshi
-</h1>
+<div align="center">
 
-<h3 align="center">
-🔐 Cybersecurity Enthusiast | 💻 Software Developer | 🌐 Full Stack Explorer
-</h3>
+# 👋 Hi, I'm Priyanshi
 
-<p align="center">
-Building secure applications and exploring cybersecurity, web security & software development.
+### 🔐 Cybersecurity Enthusiast • 💻 Software Developer • 🎓 CS Undergraduate
+
+<p>
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=2500&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Cybersecurity+Learner;Secure+Software+Developer;Linux+%7C+Networking+%7C+Web+Security;Building+Real+World+Solutions"/>
 </p>
 
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=550&lines=Cybersecurity+Learner;Software+Developer;Linux+%7C+Networking+%7C+Web+Security;Building+Secure+Applications">
-</p>
-## 👩‍💻 About Me
-
-🎓 Computer Science Engineering Undergraduate
-
-🔐 Passionate about Cybersecurity, Secure Software Development and building real-world applications.
-
-💻 Experienced in developing:
-- Real-time web applications
-- Security-focused solutions
-- Interactive platforms
-
-🌱 Currently exploring:
-- Web Security
-- Ethical Hacking
-- Linux & Networking
-- Backend Development
-- Secure Coding Practices
-## 🛡️ Cybersecurity Journey
-
-Areas I'm exploring:
-
-- 🌐 Web Application Security
-- 🔥 OWASP Top 10
-- 🐧 Linux Security
-- 🔎 Network Security
-- 🔐 API Security
-- 🚨 Vulnerability Assessment
+</div>
 
 
-### Tools
-
-![Linux](https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=linux)
-
-![Wireshark](https://img.shields.io/badge/Wireshark-blue?style=for-the-badge&logo=wireshark)
-
-![Kali Linux](https://img.shields.io/badge/Kali%20Linux-blue?style=for-the-badge&logo=kalilinux)
-
-![Burp Suite](https://img.shields.io/badge/Burp%20Suite-orange?style=for-the-badge)
-## 🧰 Skills & Technologies
-
-
-### Languages
-
-Java  
-Python  
-C++  
-JavaScript  
-
-
-### Development
-
-React.js  
-HTML5  
-CSS3  
-Node.js  
-Express.js  
-SQL  
-MongoDB  
-Git & GitHub  
-
-
-### Security
-
-Linux  
-TCP/IP  
-Wireshark  
-JWT Authentication  
-VeraCrypt  
-HashCalc
-## 📚 Currently Learning
-
-🔐 Cybersecurity:
-- Ethical Hacking
-- Web Application Security
-- Network Security
-- Cloud Security
-
-
-💻 Development:
-- Backend Architecture
-- REST APIs
-- System Design
 ---
 
-⭐ Learning • Building • Securing
+<table>
+<tr>
+
+<td width="35%" valign="top">
+
+## 👩‍💻 PRIYANSHI
+
+### Cybersecurity Enthusiast
+
+🔐 Security Learner  
+💻 Software Developer  
+🧩 Problem Solver  
+
+
+---
+
+📍 India
+
+📧 ishnayirp10@gmail.com
+
+🔗 LinkedIn  
+🔗 GitHub
+
+
+---
+
+### 🌱 Currently Exploring
+
+- Web Application Security
+- Ethical Hacking
+- Network Security
+- Linux Security
+- Backend Development
+- Secure Coding
+
+
+</td>
+
+
+<td width="65%" valign="top">
+
+
+## 🧑‍💻 About Me
+
+Computer Science undergraduate passionate about cybersecurity, secure software development, and building real-world applications.
+
+I enjoy exploring how systems work, improving security, and creating scalable solutions using modern technologies.
+
+
+---
+
+# 🛠️ Skills & Tools
+
+
+| Languages | Development | Cybersecurity |
+|---|---|---|
+| Java | React.js | Linux |
+| Python | Node.js | TCP/IP |
+| C++ | Express.js | Wireshark |
+| JavaScript | SQL | JWT |
+| | MongoDB | VeraCrypt |
+
+
+---
+
+# ⚔️ Security Tools
+
+
+<p>
+
+<img src="https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white">
+
+<img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white">
+
+<img src="https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge">
+
+<img src="https://img.shields.io/badge/Nmap-4682B4?style=for-the-badge">
+
+</p>
+
+
+</td>
+
+</tr>
+</table>
+
+
+---
+
+# 🚀 What I Work On
+
+
+<table>
+
+<tr>
+
+<td width="25%">
+
+### 🚑 Smart Ambulance
+
+Real-time emergency traffic management system.
+
+**Stack**
+
+React • Node.js • IoT
+
+</td>
+
+
+<td width="25%">
+
+### 🤖 Prompt-X
+
+AI powered UI generation platform.
+
+**Stack**
+
+Python • Streamlit • LLM
+
+</td>
+
+
+<td width="25%">
+
+### 👁️ GazeSense
+
+Eye movement analysis system.
+
+**Stack**
+
+Python • YOLOv8 • OpenCV
+
+</td>
+
+
+<td width="25%">
+
+### 🌱 YojnaSetu
+
+Government scheme discovery platform.
+
+**Stack**
+
+React • Vite • Vercel
+
+</td>
+
+
+</tr>
+
+</table>
+
+
+---
+
+# 🏆 Achievements & Certifications
+
+
+<table>
+
+<tr>
+
+<td>
+
+🔹 Cisco Cybersecurity  
+🔹 Networking Basics  
+🔹 Linux Fundamentals  
+
+</td>
+
+<td>
+
+🔹 Network Fundamentals  
+🔹 DSA using Java  
+🔹 Elements of AI  
+
+</td>
+
+</tr>
+
+</table>
+
+
+---
+
+<div align="center">
+
+### ⭐ Learn • Build • Secure
+
+</div>
